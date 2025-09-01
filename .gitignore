@@ -1,0 +1,17 @@
+# Node.js
+node_modules/
+
+# Playwright test results
+playwright-report/
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+
+# TypeScript build output
+dist/
+
+# Environment files
+.env
